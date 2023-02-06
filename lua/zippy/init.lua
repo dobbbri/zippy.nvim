@@ -59,6 +59,8 @@ M.supported_languages = {
 	javascript = js_keys,
 	javascriptreact = js_keys,
 	python = python_keys,
+	astro = js_keys,
+	vue = js_keys,
 }
 
 M.setup = function(opts)
